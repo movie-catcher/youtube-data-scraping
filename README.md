@@ -1,2 +1,5 @@
 # SNS-scraping
-SNS 스크래핑
+SNS scraping
+- youtube
+- Facebook
+- Instagram
