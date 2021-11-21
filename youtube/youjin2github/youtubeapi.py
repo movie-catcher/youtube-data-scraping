@@ -4,7 +4,7 @@ import pandas
 from googleapiclient.discovery import build
 
 api_key = 'AIzaSyBoNWXv3_lyCRe05-RoRiF5C3tMmUjH9go'
-video_id = 'b_xuj8RzlXQ'
+video_id = 'li4jOV5j7SI'
 
 # api_key 가릴까용..?
 
@@ -27,4 +27,4 @@ while response:
     else:
         break
 df = pandas.DataFrame(comments)
-df.to_excel('results_어스.xlsx', header=['comment', 'author', 'date', 'num_likes'], index=None)
+df.to_excel('results_엑시트.xlsx', header=['comment', 'author', 'date', 'num_likes'], index=None)
