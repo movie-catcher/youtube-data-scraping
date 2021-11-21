@@ -1,5 +1,7 @@
-# SNS-scraping
+# Korean Sentiment analysis
 
-- youtube
-- Facebook
-- Instagram
+- rule-based
+- divide movie comments into morphemes
+- calculate the sentiment score for each comment
+
+
